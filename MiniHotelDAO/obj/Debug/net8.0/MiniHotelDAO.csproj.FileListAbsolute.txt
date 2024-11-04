@@ -1,0 +1,15 @@
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\bin\Debug\net8.0\MiniHotelDAO.deps.json
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\bin\Debug\net8.0\MiniHotelDAO.dll
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\bin\Debug\net8.0\MiniHotelDAO.pdb
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\obj\Debug\net8.0\MiniHotelDAO.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\obj\Debug\net8.0\MiniHotelDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\obj\Debug\net8.0\MiniHotelDAO.AssemblyInfoInputs.cache
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\obj\Debug\net8.0\MiniHotelDAO.AssemblyInfo.cs
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\obj\Debug\net8.0\MiniHotelDAO.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\obj\Debug\net8.0\MiniHote.7CEE273A.Up2Date
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\obj\Debug\net8.0\MiniHotelDAO.dll
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\obj\Debug\net8.0\refint\MiniHotelDAO.dll
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\obj\Debug\net8.0\MiniHotelDAO.pdb
+C:\Users\trung\source\repos\FUMiniHotelManagementAS2\MiniHotelDAO\obj\Debug\net8.0\ref\MiniHotelDAO.dll
